@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Signika&display=swap');
+
+body {
+  font-family: 'Signika', sans-serif;
+  color: #1b4a63;
+}
+
+h1 {
+font-family: 'Bebas Neue', cursive;
+  font-size: 5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-align: center;
+  color : #f7f7f0;
+}
+
+h2 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2em;
+  margin-bottom: 0.75em;
+  padding-top: 1em;
+  text-align: center;
+  color: #f7f7f0;
+}
