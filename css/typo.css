@@ -2,15 +2,15 @@
 @import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Signika&display=swap');
 
 body {
-  font-family: 'Signika', sans-serif;
+  font-family: 'Bely', sans-serif;
   color: #1b4a63;
 }
 
 h1 {
 font-family: 'Bebas Neue', cursive;
   font-size: 5em;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 4em;
+  margin-bottom: 4em;
   text-align: center;
   color : #f7f7f0;
 }
@@ -22,4 +22,34 @@ h2 {
   padding-top: 1em;
   text-align: center;
   color: #f7f7f0;
+}
+
+h3 {
+  font-family: "Bely";
+  font-style: normal;
+  line-height: normal;
+  font-size: 1em;
+  text-align: center;
+  color: black,inherit;
+}
+
+h4 {
+  font-family: "Bebas Neue";
+  font-style: normal;
+  line-height: normal;
+  font-size: 2em;
+  text-align: center;
+  color: black,inherit;
+}
+
+p{
+  font-family: "Bely";
+  font-size: 1em;
+  text-align: center;
+  color: #f2ecd3;
+}
+
+figcaption{
+  font-family: "Bely"
+  font-size :2em;
 }
